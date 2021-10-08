@@ -162,6 +162,7 @@ If we or our subsidiaries are involved in a merger, acquisition or asset sale, y
 0.3.6. with your consent in any other cases;
 
 0.3.7. if we believe disclosure is necessary or appropriate to protect the rights, property, or safety of the Company, our customers, or others.
+0.3.8. This app collects location data to enable Delivery Track Feature & Locate the current location of delivery even when the app is closed or not in use.  This data is also used to provide support.
 
 9. Security of Data
 
