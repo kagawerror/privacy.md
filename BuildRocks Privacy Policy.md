@@ -1,4 +1,6 @@
 PRIVACY POLICY
+
+
 Effective date: 2021-10-07
 
 1. Introduction
